@@ -2,6 +2,11 @@ body{
   background-color: #191919
 }
 
+h1,h2,h3,h4,h5,p,b,i {
+  color: #fdfdfd
+}
+
+
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
