@@ -1,6 +1,6 @@
 Benvenuto/a
 
-### main{
+# main(){
 
 # Cos'è questo?
 Questo è un blog non ufficiale, creato e gestito da studenti di Unina Informatica Gruppo 1 nel 2022.
@@ -22,6 +22,6 @@ Idee personali dei collaboratori,
 
 Meme (probabilmente)
 
-### }
+# }
 
 Speriamo ti sia d'aiuto.
