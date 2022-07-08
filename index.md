@@ -13,11 +13,10 @@ Questo Blog serve a:
 # Cosa posso trovare qui?
 Troverai principalmente:
 
-Guide:
-  (idee per ora)
-  	- Guida alle mense
-		- Guida ai libri
-		- Consigli sulle materie
+Guide  (idee per ora):
+- Guida alle mense
+- Guida ai libri
+- Consigli sulle materie
 
 Idee personali dei collaboratori,
 
